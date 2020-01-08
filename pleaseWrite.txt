@@ -1,4 +1,4 @@
-2019/12/27 15:30 zhaoxianqiang 222
+﻿2019/12/27 15:30 zhaoxianqiang 222
 2019/12/27 16:00 yinxinchen
 2019/12/27 16:33 wanyi 
 2019/12/27 16:43 add by zhaoxianqiang
@@ -42,3 +42,8 @@ function String zhaoxianqiang(){
 }
 
 test push conflict
+
+
+public static void main(String[] args) {
+	System.out.println("Hello World");
+}
